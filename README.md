@@ -11,16 +11,18 @@
 
 <br/>
 
-<!-- Social Media Badges -->
+<!-- Social Media Icons (Modern) -->
 <div align="center">
   <a href="mailto:thuvoong@gmail.com">
-    <img src="https://img.shields.io/badge/Email-thuvoong%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/thu-master">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/Thu-master">
-    <img src="https://img.shields.io/badge/GitHub-Thu_Master-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
 </div>
 
@@ -52,10 +54,12 @@
 
 <div align="center">
   <h3>Programming Languages & Frameworks</h3>
-  <img src="https://skillicons.dev/icons?i=java,c,python,spring,react,js,html,css&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,spring,nodejs,express,react,js,ts,html,css,bootstrap,tailwind&perline=7" />
   
-  <h3>Tools & Databases</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,mysql,mongodb,eclipse,idea,vscode&perline=8" />
+  <br/>
+  
+  <h3>Tools, Databases & Environments</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,mysql,mongodb,postgres,redis,postman,eclipse,idea,vscode,linux,windows&perline=7" />
 </div>
 
 <br/>
@@ -65,12 +69,17 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </div>
 
-## 🌟 Pinned Projects
+## 🏆 GitHub Trophies & Fun Facts
 
-| 🏆 Project Name | 📜 Description | 🔗 Link |
-| :--- | :--- | :---: |
-| **☕ OOP Java Project** | Final project for my Object-Oriented Programming course. Demonstrates core concepts like encapsulation, inheritance, and polymorphism. | [View Code](https://github.com/Thu-master/OOP_Java_Project) |
-| **📚 Employee Management System** | Internal employee management system for a bookstore. Integrates scalable backend patterns and database management. | [View Code](https://github.com/Thu-master/EmployeeManagement) |
+<div align="center">
+  <br/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Thu-master&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Thu-master's Trophies" />
+  </a>
+  <br/>
+  <br/>
+  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true" alt="Jokes Card" />
+</div>
 
 <br/>
 
@@ -79,12 +88,17 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </div>
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats & Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Thu-master&show_icons=true&hide_border=true&title_color=00F0FF&icon_color=00F0FF&theme=radical&bg_color=0D1117" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thu-master&theme=radical&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakNum=ffffff" width="48%" />
   
+  <br/>
+  <br/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thu-master&theme=radical&custom_title=GitHub%20Contribution%20Graph&bg_color=0D1117&hide_border=true&color=00F0FF" width="100%" />
+
   <br/>
   <br/>
   
