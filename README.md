@@ -35,13 +35,30 @@
 
 ## 👦 About Me
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/7o6x/7o6x/main/assets/coding.gif" alt="Coding GIF" />
-
-- 🔭 I’m currently an **IT Student** eager to learn and grow.
-- 🌱 I’m currently deeply learning **Advanced Java, Spring Boot, and ReactJS**.
-- 👯 I’m looking to collaborate on **Open Source projects & Innovative Backend Systems**.
-- 💬 Ask me about **Java, Python, MongoDB, MySQL and Backend Development**.
-- ⚡ Fun fact: I love discovering new tech stacks and optimizing code structures!
+<div align="left">
+  <table border="0">
+    <tr>
+      <td width="65%" valign="top">
+        <h3>🚀 Building Scalable & Efficient Systems</h3>
+        <p>
+          I am a passionate <b>IT Student</b> with a deep interest in Backend Development. 
+          I love transforming complex problems into elegant, maintainable code. 
+          My focus lies in building robust systems using modern frameworks and best practices.
+        </p>
+        <ul>
+          <li>🔭 <b>Focusing on:</b> Java Ecosystem (Spring Boot, Hibernate) & ReactJS.</li>
+          <li>🌱 <b>Exploring:</b> Cloud-native architectures & Microservices.</li>
+          <li>👯 <b>Open to:</b> Collaboration on Open Source & innovative projects.</li>
+          <li>💬 <b>Ask me about:</b> Java, Spring Boot, Databases, and Backend Logic.</li>
+          <li>⚡ <b>Fun Fact:</b> I enjoy diving into tech documentations to find hidden gems!</li>
+        </ul>
+      </td>
+      <td width="35%" align="center">
+        <img src="https://raw.githubusercontent.com/7o6x/7o6x/main/assets/coding.gif" alt="Coding GIF" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br clear="both">
 
@@ -74,7 +91,7 @@
 <div align="center">
   <br/>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Thu-master&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Thu-master's Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Thu-master&theme=radical&no-frame=false&margin-w=15" alt="Thu-master's Trophies" />
   </a>
   <br/>
   <br/>
