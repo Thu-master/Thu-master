@@ -41,7 +41,7 @@
 
 <div align="center">
   <h3>🚀 Building the Future, One Line at a Time</h3>
-  <p><i>I am a dedicated <b>IT Student</b> and aspiring <b>Backend Developer</b> with a passion for architecting scalable, efficient, and elegant systems. My journey is fueled by a relentless curiosity for new technologies and a commitment to writing clean, maintainable code.</i></p>
+  <p><i>I am a dedicated <b>IT Student</b> and aspiring <b>Full Stack Developer</b> with a passion for architecting scalable, efficient, and elegant systems. My journey is fueled by a relentless curiosity for new technologies and a commitment to writing clean, maintainable code.</i></p>
 </div>
 
 ---
@@ -79,19 +79,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider" />
 </div>
-
-## 🏆 GitHub Trophies & Fun Facts
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Thu-master&theme=dracula&no-frame=true&no-bg=true" alt="Thu-master's Trophies" />
-  </a>
-  <br/>
-  <br/>
-  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true" alt="Jokes Card" />
-</div>
-
-<br/>
 
 ## 📈 GitHub Stats & Activity
 
