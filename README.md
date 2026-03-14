@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/Thu-master">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&pause=500&color=00F0FF&center=true&vCenter=true&width=500&lines=%E2%9C%A8+Hi,+I'm+Thu+Master!;%F0%9F%92%BB+Passionate+IT+Student;%F0%9F%9A%80+Backend+Developer;%E2%AD%90+Always+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&pause=500&color=00F0FF&center=true&vCenter=true&width=500&lines=%E2%9C%A8+Hi,+I'm+Thu+Master!;%F0%9F%92%BB+Passionate+IT+Student;%F0%9F%9A%80+Full+Stack+Developer;%E2%AD%90+Always+Learning" alt="Typing SVG" />
   </a>
 </div>
 
@@ -35,63 +35,56 @@
 
 ## 👦 About Me
 
-<div align="left">
-  <table border="0">
-    <tr>
-      <td width="65%" valign="top">
-        <h3>🚀 Building Scalable & Efficient Systems</h3>
-        <p>
-          I am a passionate <b>IT Student</b> with a deep interest in Backend Development. 
-          I love transforming complex problems into elegant, maintainable code. 
-          My focus lies in building robust systems using modern frameworks and best practices.
-        </p>
-        <ul>
-          <li>🔭 <b>Focusing on:</b> Java Ecosystem (Spring Boot, Hibernate) & ReactJS.</li>
-          <li>🌱 <b>Exploring:</b> Cloud-native architectures & Microservices.</li>
-          <li>👯 <b>Open to:</b> Collaboration on Open Source & innovative projects.</li>
-          <li>💬 <b>Ask me about:</b> Java, Spring Boot, Databases, and Backend Logic.</li>
-          <li>⚡ <b>Fun Fact:</b> I enjoy diving into tech documentations to find hidden gems!</li>
-        </ul>
-      </td>
-      <td width="35%" align="center">
-        <img src="https://raw.githubusercontent.com/7o6x/7o6x/main/assets/coding.gif" alt="Coding GIF" width="100%" />
-      </td>
-    </tr>
-  </table>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/7o6x/7o6x/main/assets/coding.gif" alt="Coding GIF" width="400" />
 </div>
 
-<br clear="both">
+<div align="center">
+  <h3>🚀 Building the Future, One Line at a Time</h3>
+  <p><i>I am a dedicated <b>IT Student</b> and aspiring <b>Backend Developer</b> with a passion for architecting scalable, efficient, and elegant systems. My journey is fueled by a relentless curiosity for new technologies and a commitment to writing clean, maintainable code.</i></p>
+</div>
+
+---
+
+### 🌟 My Focus & Vision
+
+- 🔭 **Current Goal:** Mastering the **Java Ecosystem** (Spring Boot, Hibernate) and **ReactJS** for full-stack excellence.
+- 🌱 **Learning Path:** Deep diving into **Cloud-native architectures**, **Microservices**, and **DevOps** practices.
+- 👯 **Collaboration:** Enthusiastic about contributing to **Open Source** and building innovative software solutions.
+- 💬 **Expertise:** Ask me about **Backend Logic**, **Database Optimization**, or the latest in **Java & Python**.
+- ⚡ **Fun Fact:** I believe the best code is the one that is never written—simplicity is key!
+
+<br/>
 
 <!-- Animated Divider -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider" />
 </div>
 
 ## 🛠️ My Tech Stack
 
 <div align="center">
   <h3>Programming Languages & Frameworks</h3>
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,spring,nodejs,express,react,js,ts,html,css,bootstrap,tailwind&perline=7" />
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,spring,nodejs,express,react,js,ts,html,css,bootstrap,tailwind&perline=7" alt="Languages and Frameworks" />
   
   <br/>
   
   <h3>Tools, Databases & Environments</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,mysql,mongodb,postgres,redis,postman,eclipse,idea,vscode,linux,windows&perline=7" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,mysql,mongodb,postgres,redis,postman,eclipse,idea,vscode,linux,windows&perline=7" alt="Tools and Databases" />
 </div>
 
 <br/>
 
 <!-- Animated Divider -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider" />
 </div>
 
 ## 🏆 GitHub Trophies & Fun Facts
 
 <div align="center">
-  <br/>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Thu-master&theme=radical&no-frame=false&margin-w=15" alt="Thu-master's Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Thu-master&theme=dracula&no-frame=true&no-bg=true" alt="Thu-master's Trophies" />
   </a>
   <br/>
   <br/>
@@ -99,11 +92,6 @@
 </div>
 
 <br/>
-
-<!-- Animated Divider -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-</div>
 
 ## 📈 GitHub Stats & Activity
 
