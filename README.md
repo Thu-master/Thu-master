@@ -24,6 +24,10 @@
   <a href="https://github.com/Thu-master">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.gg/yxgtdsSY">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
+  </a>
 </div>
 
 <br/>
